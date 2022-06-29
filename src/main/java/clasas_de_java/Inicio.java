@@ -15,5 +15,6 @@ public class Inicio extends HttpServlet {
     public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
         RequestDispatcher view = req.getRequestDispatcher("menu_consultas.html");
         view.forward(req, res);
+        //comentario de prueba
     }
 }
