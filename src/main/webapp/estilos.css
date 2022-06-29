@@ -1,0 +1,42 @@
+.btn-outline-primary{
+    margin-right:10px;
+}
+.fila_enviar{
+    display:flex;
+    justify-content:center;
+}
+.row{
+    margin: 1rem;
+}
+#consultar,#agregar,#agregar_cliente,#agregar_moneda,#agregar_producto,#volver{
+    width:6rem;
+}
+#fomularios{
+    display:flex;
+    flex-wrap:wrap;
+}
+#volver{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.container{
+    margin-top:1rem;
+    width:600px;
+}
+#lista_cliente,#lista_producto,#lista_moneda{
+    margin-top:1rem;
+    width:800px;
+}
+h3{
+    margin-top: 5px;
+}
+#prueba2{
+    display: flex;
+    justify-content: center;
+}
+#mensaje_exito{
+    height: auto;
+}
+
